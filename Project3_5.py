@@ -1,4 +1,4 @@
-# Deividas Ilgun
+# Deividas Ilgunas
 # Test Quiz Game
 # The point of the project is to test my skills but also have a little fun.
 # The quiz has no specific category just a bunch of random questions
